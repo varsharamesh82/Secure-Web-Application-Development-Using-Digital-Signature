@@ -28,7 +28,7 @@ React Js was first created by Jordan Walke, Jordan Walke is a software engineer 
   
 This system can be set up on any Windows-based operating system machine. The steps to Setup  are as follow:  
 1. Download and install NodeJS LTS version from  https://nodejs.org/en/download /  
-2. Clone our repository from https://github.com/nkartik01/isaa_backend.git  
+2. Clone our repository from https://github.com/varsharamesh82/Secure-Web-Application-Development-Using-Digital-Signature.git
 4. Navigate to repository folder and run the following commands:  
 
 ```
