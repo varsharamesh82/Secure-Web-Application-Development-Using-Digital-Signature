@@ -1,0 +1,9 @@
+{
+  "mongodb": "mongodb+srv://admin:admin@devconnector-wnasn.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "JWTSecretTeacher": "teacher",
+  "JWTSecretAdmin": "admin",
+  "JWTSecretStudent": "student",
+  "ip": "isaa.ddns.net",
+  "adminUser": "admin",
+  "adminPassword": "$2y$12$E5Lej4MNTgkHxNsGyj0cY.T44Gn0B7wOPDb/NVR9gRclzjS6uxr5."
+}
